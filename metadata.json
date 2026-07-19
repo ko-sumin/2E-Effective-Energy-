@@ -1,0 +1,6 @@
+{
+  "name": "2E(Effective Energy)",
+  "description": "에어컨, 보일러, 공기청정기 등 가전제품의 성능과 효율을 주거 환경과 사용 패턴에 맞춰 비교 분석하고 맞춤 추천해주는 전문 컨설턴트 AI 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
